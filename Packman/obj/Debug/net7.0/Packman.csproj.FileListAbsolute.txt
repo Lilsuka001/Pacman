@@ -1,0 +1,14 @@
+D:\C#\Packman\Packman\bin\Debug\net7.0\Packman.exe
+D:\C#\Packman\Packman\bin\Debug\net7.0\Packman.deps.json
+D:\C#\Packman\Packman\bin\Debug\net7.0\Packman.runtimeconfig.json
+D:\C#\Packman\Packman\bin\Debug\net7.0\Packman.dll
+D:\C#\Packman\Packman\bin\Debug\net7.0\Packman.pdb
+D:\C#\Packman\Packman\obj\Debug\net7.0\Packman.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Packman\Packman\obj\Debug\net7.0\Packman.AssemblyInfoInputs.cache
+D:\C#\Packman\Packman\obj\Debug\net7.0\Packman.AssemblyInfo.cs
+D:\C#\Packman\Packman\obj\Debug\net7.0\Packman.csproj.CoreCompileInputs.cache
+D:\C#\Packman\Packman\obj\Debug\net7.0\Packman.dll
+D:\C#\Packman\Packman\obj\Debug\net7.0\refint\Packman.dll
+D:\C#\Packman\Packman\obj\Debug\net7.0\Packman.pdb
+D:\C#\Packman\Packman\obj\Debug\net7.0\Packman.genruntimeconfig.cache
+D:\C#\Packman\Packman\obj\Debug\net7.0\ref\Packman.dll
